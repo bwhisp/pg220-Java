@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<svg><rect x="0" y="0" width="340" height="340.0" style="fill:WHITE;"></rect>
+<rect x="10" y="10" width="320" height="320.0" style="fill:YELLOW;"></rect>
+<rect x="10" y="10" width="150" height="160.0" style="fill:GREEN;"></rect>
+<text x="85" y="90" style="fill:WHITE;font-size:4px">4</text>
+<rect x="160" y="10" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="166" y="17" style="fill:WHITE;font-size:4px">1</text>
+<rect x="172" y="10" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="178" y="17" style="fill:WHITE;font-size:4px">1</text>
+<rect x="184" y="10" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="190" y="17" style="fill:WHITE;font-size:4px">1</text>
+<rect x="196" y="10" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="202" y="17" style="fill:WHITE;font-size:4px">1</text>
+<rect x="208" y="10" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="214" y="17" style="fill:WHITE;font-size:4px">1</text>
+<rect x="10" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="19" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="23" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="28" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="32" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="37" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="41" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="46" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="50" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="55" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="59" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="64" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="68" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="73" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="77" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="82" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="86" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="91" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="95" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="100" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="104" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="109" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="113" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="118" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="122" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="127" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="131" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="136" y="170" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="140" y="185" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="16" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="19" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="22" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="25" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="28" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="31" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="34" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="37" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="40" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="43" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="46" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="49" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="52" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="55" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="58" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="61" y="225" style="fill:WHITE;font-size:4px">2</text>
+<rect x="64" y="201" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="67" y="225" style="fill:WHITE;font-size:4px">2</text>
+</svg>

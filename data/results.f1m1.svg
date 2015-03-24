@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<svg><rect x="0" y="0" width="160" height="340.0" style="fill:WHITE;"></rect>
+<rect x="10" y="10" width="140" height="320.0" style="fill:YELLOW;"></rect>
+<rect x="10" y="10" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="34" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="58" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="82" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="106" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="130" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="154" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="178" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="202" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="226" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="250" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="274" style="fill:WHITE;font-size:4px">2</text>
+<rect x="0" y="340" width="160" height="340.0" style="fill:WHITE;"></rect>
+<rect x="10" y="350" width="140" height="320.0" style="fill:YELLOW;"></rect>
+<rect x="10" y="350" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="374" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="398" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="422" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="446" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="470" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="494" width="6" height="48.0" style="fill:GREEN;"></rect>
+<text x="13" y="518" style="fill:WHITE;font-size:4px">2</text>
+<rect x="10" y="542" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="557" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="573" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="588" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="604" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="619" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="635" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="650" style="fill:WHITE;font-size:4px">3</text>
+<rect x="0" y="680" width="160" height="340.0" style="fill:WHITE;"></rect>
+<rect x="10" y="690" width="140" height="320.0" style="fill:YELLOW;"></rect>
+<rect x="10" y="690" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="705" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="721" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="736" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="752" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="767" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="783" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="798" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="814" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="829" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="845" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="860" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="876" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="891" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="907" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="922" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="938" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="953" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="969" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="984" style="fill:WHITE;font-size:4px">3</text>
+<rect x="0" y="1020" width="160" height="340.0" style="fill:WHITE;"></rect>
+<rect x="10" y="1030" width="140" height="320.0" style="fill:YELLOW;"></rect>
+<rect x="10" y="1030" width="9" height="31.0" style="fill:GREEN;"></rect>
+<text x="14" y="1045" style="fill:WHITE;font-size:4px">3</text>
+<rect x="10" y="1061" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="16" y="1068" style="fill:WHITE;font-size:4px">1</text>
+<rect x="10" y="1075" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="16" y="1082" style="fill:WHITE;font-size:4px">1</text>
+<rect x="10" y="1089" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="16" y="1096" style="fill:WHITE;font-size:4px">1</text>
+<rect x="10" y="1103" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="16" y="1110" style="fill:WHITE;font-size:4px">1</text>
+<rect x="10" y="1117" width="12" height="14.0" style="fill:GREEN;"></rect>
+<text x="16" y="1124" style="fill:WHITE;font-size:4px">1</text>
+</svg>
